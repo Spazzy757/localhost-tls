@@ -1,0 +1,16 @@
+{
+  "CN": "Spazzy Root CA",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "DE",
+      "ST": "Brandenburg",
+      "L": "Berlin",
+      "O": "CylCerts",
+      "OU": "Security"
+    }
+  ]
+}

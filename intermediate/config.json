@@ -1,0 +1,32 @@
+{
+    "signing": {
+        "default": {
+            "expiry": "43800h"
+        },
+        "profiles": {
+            "cluster": {
+                "usages": [
+                    "signing",
+                    "key encipherment",
+                    "cert sign",
+                    "crl sign",
+                    "server auth",
+                    "client auth"
+                ],
+                "ca_constraint": {
+                    "is_ca": true
+                }
+            },
+            "development": {
+                "usages": [     
+                    "signing",
+                    "key encipherment",
+                    "cert sign",
+                    "crl sign"
+                ],
+                "ca_constraint": {
+                    "is_ca": true
+                }
+            }
+        }
+}

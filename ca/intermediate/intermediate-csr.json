@@ -1,0 +1,19 @@
+{
+  "CN": "Spazzy Intermediate CA",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C":  "DE",
+      "ST": "Brandenburg",
+      "L":  "Berlin",
+      "O":  "Certs",
+      "OU": "Security"
+    }
+  ],
+  "ca": {
+    "expiry": "42720h"
+  }
+}
