@@ -1,0 +1,4 @@
+spazzy.dev {
+    tls certs/spazzy.dev.pem certs/spazzy.dev-key.pem
+#    log / stdout "{proto} Request: {method} {path}"
+}
