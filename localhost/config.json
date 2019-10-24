@@ -1,7 +1,11 @@
 {
-    "CN": "localhost",
-    "hosts": [
-        "127.0.0.1",
-        "localhost"
+  "CN": "localhost",
+"key": {
+       "algo": "rsa",
+     "size": 2048
+},
+  "hosts": [
+           "localhost",
+           "127.0.0.1"
     ]
 }
