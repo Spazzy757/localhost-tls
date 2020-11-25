@@ -1,0 +1,14 @@
+{
+    "CN": "(LOCAL) CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [{
+        "C": "--",
+        "ST": "STATE",
+        "L": "LOCALITY",
+        "O": "ORGANISATION",
+        "OU": "LOCAL"
+    }]
+}
