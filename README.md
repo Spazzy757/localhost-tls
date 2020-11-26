@@ -2,6 +2,8 @@
 
 A repo that setups TLS locally so you are able to have tls using `localhost` or `127.0.0.1` using Cloud Flares [cfssl](https://github.com/cloudflare/cfssl) tool
 
+For a less manual approach use [mkcert](https://github.com/FiloSottile/mkcert)
+
 ## Generating the CA:
 
 ```bash
